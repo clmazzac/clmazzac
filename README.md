@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm a rising junior at Cornell University studying CS and Math. Right now I'm working at Knightscope, a startup in the SF Bay Area making autonomous robots for physical security.
+I'm a junior at Cornell University studying CS and Math. 
+<!--
+Right now I'm working at Knightscope, a startup in the SF Bay Area making autonomous robots for physical security.
+-->
 
 You can find a recent copy of my resume [here](https://cammazzacane.com/)!
 <!--
