@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-I'm a junior at Cornell University studying CS and Math. 
-<!--
-Right now I'm working at Knightscope, a startup in the SF Bay Area making autonomous robots for physical security.
--->
+Thanks for stopping by my GitHub profile! I'm Cam, a junior at Cornell University studying CS and Math.
+
+I'm mostly known for my work at Cornell Electric Vehicles, where I lead a 12-person software team making our team's vehicles fully autonomous. I was also recently a SWE intern at [Knightscope](https://knightscope.com/), a startup in the SF Bay Area making autonomous robots for physical security.
 
 You can find a recent copy of my resume [here](https://cammazzacane.com/)!
 <!--
